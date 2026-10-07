@@ -54,7 +54,7 @@ Terá acesso às informações para acompanhamento e controle, podendo:
 - Verificar produtos com estoque baixo;
 - Verificar produtos próximos do vencimento.
 
-Essas permissões foram definidas durante o levantamento de requisitos realizado com a responsável pela cantina. :contentReference[oaicite:2]{index=2}
+Essas permissões foram definidas durante o levantamento de requisitos realizado com a responsável pela cantina.
 
 ---
 
@@ -79,7 +79,6 @@ Cada produto terá informações como:
 - Estoque mínimo;
 - Fornecedor.
 
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -104,7 +103,6 @@ As entradas aumentam a quantidade disponível e as saídas diminuem a quantidade
 
 O sistema não permitirá que o estoque fique com quantidade negativa.
 
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -120,8 +118,6 @@ Quando uma venda for registrada:
 4. A quantidade será retirada automaticamente do estoque.
 
 Dessa forma, o estoque poderá permanecer atualizado de acordo com as vendas realizadas.
-
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -140,8 +136,6 @@ Quando a quantidade disponível ficar abaixo desse limite, o sistema deverá apr
 Os produtos poderão ser organizados por lotes e terão suas respectivas datas de validade.
 
 O sistema poderá apresentar um alerta para produtos que estejam próximos do vencimento.
-
-:contentReference[oaicite:6]{index=6}
 
 ---
 
@@ -175,8 +169,6 @@ O sistema deverá disponibilizar relatórios relacionados ao funcionamento da ca
 - Saídas de produtos;
 - Vendas realizadas.
 
-:contentReference[oaicite:7]{index=7}
-
 ---
 
 ## 🗄️ Banco de Dados
@@ -196,8 +188,6 @@ As informações armazenadas poderão incluir:
 
 O uso de um banco de dados permitirá manter as informações organizadas e facilitar futuras consultas.
 
-:contentReference[oaicite:8]{index=8}
-
 ---
 
 ## 💾 Backup
@@ -205,8 +195,6 @@ O uso de um banco de dados permitirá manter as informações organizadas e faci
 Para evitar a perda das informações, será realizada periodicamente uma cópia do banco de dados.
 
 O backup terá como objetivo preservar os registros da cantina caso ocorra algum problema com os dados originais.
-
-:contentReference[oaicite:9]{index=9}
 
 ---
 
@@ -246,8 +234,6 @@ O levantamento dos requisitos foi realizado por meio de uma entrevista com a res
 **Responsável pela cantina:** Sara Ribeiro de Souza  
 **Responsável pela entrevista:** Antonio Rodrigues da Silva Neto  
 **Data:** 23/09/2026
-
-:contentReference[oaicite:10]{index=10}
 
 link do formulário: https://github.com/antoniorodrigues20082006-lab/Trabalho-python-/blob/main/Formulario_Cantina_Estoque.pdf
 ---
