@@ -248,6 +248,7 @@ O levantamento dos requisitos foi realizado por meio de uma entrevista com a res
 **Data:** 23/09/2026
 
 :contentReference[oaicite:10]{index=10}
+
 link do formulário: https://github.com/antoniorodrigues20082006-lab/Trabalho-python-/blob/main/Formulario_Cantina_Estoque.pdf
 ---
 
