@@ -1,5 +1,19 @@
-# Trabalho-python-
-# 📦 Sistema de Estoque - Cantina Escolar
+<div align="center">
+
+# 🏪 Sistema Cantina
+
+### Sistema de Gerenciamento de Estoque para Cantina Escolar
+
+Uma solução para organizar produtos, controlar o estoque e facilitar o gerenciamento de uma cantina escolar.
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-172554?style=for-the-badge&logo=python&logoColor=7DE3A0)
+![SQLite](https://img.shields.io/badge/SQLite-172554?style=for-the-badge&logo=sqlite&logoColor=7DE3A0)
+![GitHub](https://img.shields.io/badge/GitHub-172554?style=for-the-badge&logo=github&logoColor=7DE3A0)
+
+</div>
+
 
 ## 📋 Sobre o Projeto
 
@@ -248,17 +262,16 @@ O projeto encontra-se em fase de desenvolvimento.
 - [x] Identificação dos usuários
 - [x] Definição das principais funcionalidades
 - [x] Criação do protótipo inicial do painel
-- [ ] Modelagem do banco de dados
-- [ ] Desenvolvimento do sistema
-- [ ] Implementação do controle de estoque
-- [ ] Implementação das vendas
-- [ ] Implementação dos alertas
-- [ ] Implementação dos relatórios
+- [x] Modelagem do banco de dados
+- [x] Desenvolvimento do sistema
+- [x] Implementação do controle de estoque
+- [x] Implementação das vendas
+- [x] Implementação dos alertas
+- [ ] Implementação dos backup
 - [ ] Testes
 - [ ] Documentação final
 
 ---
-
 ## 📷 Protótipo do Painel
 
 O primeiro protótipo foi desenvolvido para representar visualmente a tela principal do sistema, com informações resumidas do estoque, produtos cadastrados, alertas e vendas.
@@ -268,6 +281,16 @@ A interface poderá ser aprimorada durante o desenvolvimento, mantendo como obje
 link do protótipo: https://github.com/antoniorodrigues20082006-lab/Trabalho-python-/blob/main/Prot%C3%B3tipo%20no%20papel.jpeg
 
 ---
+## 🖥️ Demonstração
+
+<div align="center">
+  Tela de criação de conta
+<img width="1600" height="900" alt="Captura de tela 2026-10-21 093202" src="https://github.com/user-attachments/assets/0dc60eff-bdd3-4d95-9c03-31b8a0635082" />
+  Tela inicial do sistema
+<img width="1600" height="900" alt="Captura de tela 2026-10-21 092105" src="https://github.com/user-attachments/assets/cea37c7a-521c-49e2-9537-6fbaee0fb1b7" />
+  Tela de cadastro de produtos
+<img width="1600" height="900" alt="Captura de tela 2026-10-21 093256" src="https://github.com/user-attachments/assets/7beab18a-06c2-4ac1-8644-e3f5fe8efe2b" />
+</div>
 
 ## 🎓 Finalidade Acadêmica
 
